@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/tianaix/tianaix/files/quotes.json)
+
+
+- 😄 Pronouns: she/her
 <!--
 **tianaix/tianaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
