@@ -1,6 +1,4 @@
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=socrates&font=default&quotesUrl=https://github.com/tianaix/tianaix/blob/main/files/quotes.json)
-
 ### Hi there 👋
 - 😄 Pronouns: she/her
 <!--
